@@ -1,4 +1,4 @@
-<div style="position: relative; padding-bottom: 150%; height: 0; overflow: auto;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: auto;">
   <iframe 
     id="chart"
     src="https://bc.scratchor.com/python/index.html"
